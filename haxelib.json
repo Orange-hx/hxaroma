@@ -1,0 +1,12 @@
+{
+    "name"         : "hxaroma",
+    "url"          : "https://github.com/Orange-hx/hxaroma",
+    "license"      : "Public",
+    "tags"         : [ "javascript", "js", "lua", "game", "externs", "love2d", "aroma" ],
+    "description"  : "Haxe externs for Aroma!",
+    "version"      : "1.0.0",
+    "releasenote"  : "Beginning of Orange.hx stuff!",
+    "classPath"    : "src",
+    "contributors" : [ "Rabios" ],
+    "dependencies" : {}
+}
